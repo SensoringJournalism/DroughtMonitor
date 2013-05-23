@@ -1,10 +1,12 @@
 /*
-  DIY Drought Monitor
+ DIY Drought Monitor
+  
+ Matt Waite and Ben Kreimer | Sensoring Journalism 2013
+ 
+ This sketch is an amalgamation of sketches from Sparkfun and the Robotic Gardener.
  
  This sketch takes input from a DHT sensor and two probes -- galvanized carriage bolts in our prototype -- and measures temperature, humidity and soil moisture.
  After measuring those values, the unit uses a Sparkfun WiFly shield to upload those values to Xively (formerly Cosm/Pachube). 
- 	
- This sketch is an amalgamation of sketches from Sparkfun and the Robotic Gardener.
  	 
  */
 
